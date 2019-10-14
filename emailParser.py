@@ -25,8 +25,8 @@ emailVar = "> *Email:* "
 #no space at the end
 isignVar = "> *I sign the Mental Health Workers' Pledge:*"
 #No space at the end
-mailinglistVar = "> *Please add me to the USA/UK PalMHN mailing list :*"
-mailinglistVar2 = "> *Please add me to the UKPalMHN mailing list :*"
+mailinglistVar = "> *Please add me to the XXX mailing list :*"
+mailinglistVar2 = "> *Please add me to the YYY mailing list :*"
 #no space at end
 commentVar = "> *Comment:*"
 timeVar = "> Time: "
